@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone 6",
+      "price": 500,
+      "image": "https://bachlongmobile.com/media/catalog/product/cache/2/image/040ec09b1e35df139433887a97daa66f/6/0/600_ip6_gold_800x800_1_1.jpg",
+      "instock": 20,
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "iphone 7",
+      "price": "55000",
+      "image": "https://clickbuy.com.vn/uploads/2019/03/iPhone-7-vang-hong-600x600.png",
+      "instock": "40000",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "iphone 9",
+      "price": 600,
+      "image": "https://clickbuy.com.vn/uploads/2019/03/iPhone-8-plus-den.png",
+      "instock": 10,
+      "status": true
+    },
+    {
+      "name": "Iphone 8",
+      "price": "550",
+      "image": "https://clickbuy.com.vn/uploads/2019/03/iPhone-8-plus-den-600x600.png",
+      "instock": "22",
+      "status": true,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "abc",
+      "price": "34",
+      "image": "http://www.upsieutoc.com/images/2020/01/17/09-Han968.jpg",
+      "instock": "30",
+      "status": false
+    },
+    {
+      "id": 6,
+      "name": "samsung galaxy fold",
+      "price": "2000",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/198158/samsung-galaxy-fold-black-600x600.jpg",
+      "instock": "500",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Galaxy fold",
+      "price": "2500",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/198158/samsung-galaxy-fold-black-600x600.jpg",
+      "instock": "40",
+      "status": true
+    }
+  ]
+}
